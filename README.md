@@ -104,4 +104,4 @@ We welcome contributions! Feel free to open a PR if you have any best practices 
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**. .
+This project is licensed under the **MIT License**
