@@ -7,12 +7,17 @@ This repository contains the best practices for writing clean, maintainable, and
 ## 🔥 Best Practices
 
 ### 1️⃣ Use `const` and `let` Instead of `var`
+
 - Avoid using `var` due to its function-scoped nature and potential issues with hoisting.
+  
 - Use `const` for values that should not be reassigned.
+  
 - Use `let` for values that may change.
 
  Use Template Literals Instead of String Concatenation
+ 
  Improves readability and allows for easy variable interpolation
+ 
  // ❌ Bad
 const name = "Ali";
 console.log("Hello, " + name + "!");
@@ -50,7 +55,11 @@ npm install -g eslint
 npx eslint --init
 
 Conclusion
+
 Following these best practices will make your JavaScript code cleaner, more efficient, and easier to maintain. 🚀
+
 💡 Want to contribute? Feel free to submit a Pull Request! 😎
+
 Stay updated
+
 ⭐ If you found this helpful, star this repository and stay tuned for more updates! 🚀
